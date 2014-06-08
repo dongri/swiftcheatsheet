@@ -205,6 +205,6 @@ class Counter {
 
 var myCount = Counter()
 myCount.inc()
-myCount.add(2)
-myCount.printCount() // Count: 3
+myCount.add(3)
+myCount.printCount() // Count: 4
 ```
